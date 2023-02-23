@@ -1,8 +1,16 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I'm%20heenahan&fontSize=50)
+  
+👩‍💻 Commit Log
 
-🌱백준 잔디심기
+[![heenahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heenahan)](https://github.com/anuraghazra/github-readme-stats)
+
+🌱 백준 잔디심기
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=heenahan&theme=warm)
+
+</div>
 
 <!--
 **heenahan/heenahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
