@@ -1,10 +1,14 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I'm%20heenahan&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=280&section=header&text=Hi%20there,%20I'm%20heenahan&fontSize=50&fontColor=black)
+
+🤓 **Language**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heenahan&layout=compact)](https://github.com/heenahan/github-readme-stats)
 
 👩‍💻 **Commit Log**
 
-[![heenahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heenahan)](https://github.com/anuraghazra/github-readme-stats)
+[![heenahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heenahan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🎖 **Solved.ac**
 
